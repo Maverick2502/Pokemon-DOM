@@ -3,7 +3,8 @@
 # Tools Used
 Pokemon-DOM (HTML/CSS, JS/DOM Manipulation)
 
-## URL was forked from the following Github page (thanks!):
+## Source
+URL was forked from the following Github page (thanks!):
 https://github.com/karismatic-megafauna/pokemon-i
 
 # Screenshots
